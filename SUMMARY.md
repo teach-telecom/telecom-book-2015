@@ -70,4 +70,4 @@
   * [Защищенная переписка PGP/PEM](security/SecureMail.md)
   * [SPAM / Антон Журавлёв](security/SPAM.md)
   * [Вирусные атаки / Сильва](security/Viruses.md)
-  * [Атаки Dos/DDos / Владислав Фоменко ](security/DDoS.md)
+  * [Атаки Dos/DDos / Вячеслав Фоменко ](security/DDoS.md)
