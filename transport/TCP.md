@@ -214,6 +214,6 @@ ______________________________
 
 ####Для дальнейшего узучения:
 
-[RFС 793](http://citforum.ru/internet/tifamily/tcpspec.shtml)
+[RFС 793](https://tools.ietf.org/html/rfc793)
 
-[RFC 793 на русском](https://tools.ietf.org/html/rfc793)
+[RFC 793 на русском](http://citforum.ru/internet/tifamily/tcpspec.shtml)
