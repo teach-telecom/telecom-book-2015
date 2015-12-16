@@ -18,7 +18,7 @@
   * [Спутниковые каналы связи / Эдгар Патрик](physical/Satellite.md)
 * [Уровень передачи данных](datalink/index.md)
   * [Методы доступа к среде](datalink/Access.md)
-  * [Протокол Ethernet (IEEE 802.3)](datalink/Ethernet.md)
+  * [Протокол Ethernet (IEEE 802.3) / Дмитрий ](datalink/Ethernet.md)
   * [Протокол Маркерная шина (IEEE 802.4)](datalink/TokenBus.md)
   * [Протокол Token Ring (IEEE 802.5)](datalink/TokenRing.md)
   * [Сети IEEE 802.11 (WiFi) / Айсылу Малыгина](datalink/IEEE802_11.md)
